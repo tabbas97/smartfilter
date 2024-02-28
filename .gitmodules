@@ -1,0 +1,3 @@
+[submodule "jobsite-scrapers"]
+	path = jobsite-scrapers
+	url = https://github.com/tabbas97/jobsite-scrapers.git
